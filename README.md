@@ -11,4 +11,4 @@
     - Packetizer - Модуль обработки пакетов, связан напрямую с l2_transport модулем
     - l2_transport - Модуль, реализующий приём/передачу пакетов
 ## Примерное представление программы
-![Optional Text](misc/diagram.svg)
+![Optional Text](misc/diagram.png)
