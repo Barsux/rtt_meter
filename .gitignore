@@ -5,3 +5,4 @@ a.out
 bin
 uksus
 uskus.pub
+*.o
